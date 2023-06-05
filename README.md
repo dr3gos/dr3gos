@@ -1,4 +1,13 @@
-![](https://pa1.aminoapps.com/6110/1192c997478448977c2046c41e3fb9111b89c361_hq.gif)
+
+<p align="center">
+    <img width="500" src="https://pa1.aminoapps.com/6110/1192c997478448977c2046c41e3fb9111b89c361_hq.gif" alt="furfrougif">
+</p>
+
+<p align="center">
+<small>
+dr3gos
+  </small>
+</p>
 
 <!-- ### Hi there 👋 -->
 
