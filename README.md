@@ -1,4 +1,6 @@
-### Hi there 👋
+![](https://pa1.aminoapps.com/6110/1192c997478448977c2046c41e3fb9111b89c361_hq.gif)
+
+<!-- ### Hi there 👋 -->
 
 <!--
 **dr3gos/dr3gos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
