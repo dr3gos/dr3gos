@@ -8,7 +8,7 @@
 dr3gos
   </small>
     <br>
-    Currently learning Python.
+    Currently learning Python & Java.
 </p>
 
 
